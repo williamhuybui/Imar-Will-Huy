@@ -9,14 +9,19 @@ The dataset consists of historic match data for the German Bundesliga (1st and 2
 ## Project Intro/Objective
 The main goal of this project is to explore the information in the sql format, extract the useful information, and use Web Scraping and APIs to answer the following question:
 * The total number of goals scored by the team during the 2011 season
+
 * The total number of wins the team earned during the 2011 season
+
 * The team's win percentage on days where it was raining during games in the 2011 season.
 
 ## Technologies:
-Python: pandas, numpy, sqlite, matplotlib
-[Dark Sky API](https://darksky.net/dev)
-[Postman](getpostman.com)
-[DB Browser for SQLite](https://sqlitebrowser.org/)
+* Python: pandas, numpy, sqlite, matplotlib
+
+* [Dark Sky API](https://darksky.net/dev)
+
+* [Postman](getpostman.com)
+
+* [DB Browser for SQLite](https://sqlitebrowser.org/)
 
 
 ## Contact
